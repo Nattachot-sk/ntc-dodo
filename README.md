@@ -6,7 +6,9 @@
 - 😄 Pronouns: Mr.guy
 - ⚡ Fun fact: Create program all time
 
-<!---
-ntc-dodo/ntc-dodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+This is my mini project 
+https://first-porfolio-henna.vercel.app/
+https://testwork-1.vercel.app/
+https://chotkarnyang.vercel.app/
+https://portfolio-new-chi-cyan.vercel.app/
